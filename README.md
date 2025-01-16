@@ -1,1 +1,2 @@
-# Discord_Utility_Bot
+# Discord Utility Bot
+Erm what the sigma?
